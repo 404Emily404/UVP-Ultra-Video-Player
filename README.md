@@ -49,7 +49,7 @@ Specialized logic is included only where generic detection is insufficient.
    - Greasemonkey 4
 
 2. Install the script from one of these sources:
-   - [Greasy Fork](https://greasyfork.org/) *(coming soon)*
+   - [Greasy Fork (https://greasyfork.org/en/scripts/591828-uvp-ultra-video-player-v5-0-1) 
    - Direct install from this repository:  
      [`UVP.user.js`](./UVP.user.js)
 
