@@ -1290,12 +1290,12 @@
   // 'max' starts HLS at its highest level while hls.js keeps ABR enabled. For
   // YouTube DASH both options use bandwidth-estimated startup and the full
   // representation ladder; 'max' additionally enables decode-overload safety.
-  // Toggled from the userscript menu. Default: 'auto' (ABR).
+  // Toggled from the userscript menu. Default: 'Max' (ABR).
   UVP.Utils.getPlaybackQuality = function() {
     try {
-      const q = (typeof GM_getValue === 'function') ? GM_getValue('uvp-play-quality', 'auto') : 'auto';
-      return (q === 'max') ? 'max' : 'auto';
-    } catch (e) { return 'auto'; }
+      const q = (typeof GM_getValue === 'function') ? GM_getValue('uvp-play-quality', 'max') : 'max';
+      return (q === 'auto') ? 'auto' : 'max';
+    } catch (e) { return 'max'; }
   };
   UVP.Utils.setPlaybackQuality = function(q) {
     try { if (typeof GM_setValue === 'function') GM_setValue('uvp-play-quality', q === 'auto' ? 'auto' : 'max'); } catch (e) {}
