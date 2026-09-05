@@ -45,7 +45,7 @@ Specialized logic is included only where generic detection is insufficient.
 1. Install a userscript manager:
    - [Tampermonkey](https://www.tampermonkey.net/) (recommended)
    - [Violentmonkey](https://violentmonkey.github.io/)
-   - AdGuard (https://adguard.com/en/download.html) (recommended for Android)
+   - [AdGuard](https://adguard.com/en/download.html) (recommended for Android)
    - Greasemonkey 4
 
 2. Install the script from one of these sources:
