@@ -101,7 +101,7 @@ Windows • macOS • Linux • Android • iOS
 
 If UVP saves you time or frustration, you can support continued development:
 
-**[☕ Buy Me a Coffee](https://buymeacoffee.com/yourusername)**
+**[☕ Buy Me a Coffee](https://buymeacoffee.com/dragon.magic)**
 
 ---
 
