@@ -50,8 +50,7 @@ Specialized logic is included only where generic detection is insufficient.
 
 2. Install the script from one of these sources:
    - [Greasy Fork](https://greasyfork.org/en/scripts/591828-uvp-ultra-video-player-v5-0-1)
-   - Direct install from this repository:  
-     [`UVP.user.js`](./UVP.user.js)
+   - Direct install from this repository.
 
 ---
 
@@ -106,4 +105,4 @@ If UVP saves you time or frustration, you can support continued development:
 ---
 
 **Author:** Dragon.Magic (404Emily404)  
-**Version:** 5.0.1
+**Version:** 5.0.8
