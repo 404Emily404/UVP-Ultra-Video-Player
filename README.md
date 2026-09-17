@@ -49,8 +49,8 @@ Specialized logic is included only where generic detection is insufficient.
    - Greasemonkey 4
 
 2. Install the script from one of these sources:
-   - [Greasy Fork](https://greasyfork.org/) – Coming Soon
-   - [Direct install - UVP-Ultra-Video-Player-v5.0.36-Mini.user.js](https://github.com/404Emily404/UVP-Ultra-Video-Player/releases/download/v5.0.33-Mini/UVP-Ultra-Video-Player-v5.0.33-Mini.user.js)](https://github.com/404Emily404/UVP-Ultra-Video-Player/raw/refs/heads/main/UVP-Ultra-Video-Player-v5.0.36.0-Mini.user.js)
+   - [Greasy Fork]([(https://greasyfork.org/en/scripts/596117-uvp-ultra-video-player-mini)]) – Coming Soon
+   - [Direct install - UVP-Ultra-Video-Player-v5.0.36-Mini.user.js][(https://github.com/404Emily404/UVP-Ultra-Video-Player/releases/download/v5.0.33-Mini/UVP-Ultra-Video-Player-v5.0.33-Mini.user.js)](https://github.com/404Emily404/UVP-Ultra-Video-Player/raw/refs/heads/main/UVP-Ultra-Video-Player-v5.0.36.0-Mini.user.js)])
 
 ---
 
