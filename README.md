@@ -1,4 +1,4 @@
-# UVP Ultra Video Player v5.0.33-Mini
+# UVP Ultra Video Player
 
 **Universal Native Overlay Player • Stream Grabber • In-Browser Remuxing Engine**
 
@@ -105,4 +105,4 @@ If UVP saves you time or frustration, you can support continued development:
 ---
 
 **Author:** Dragon.Magic (404Emily404)  
-**Version:** 5.0.33-Mini
+**Version:** 5.0.36-Mini
